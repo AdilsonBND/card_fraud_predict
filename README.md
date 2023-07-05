@@ -1,6 +1,6 @@
 # Detecção de fraudes em compras no cartão de crédito
 <br><br>
-Obs: Devido ao tamanho do arquivo, o data set não pode ser incluído no github, estando disponível no kaggle no endereço abaixo:<br>
+<p fontsize=10>Obs: Devido ao tamanho do arquivo, o dataset não pode ser incluído no github, estando disponível no kaggle no endereço abaixo:</p><br>
 <link>https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud/download?datasetVersionNumber=1</link><br>
 <h1>O que foi feito nesse projeto ?</h1>
 <pre>
